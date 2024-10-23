@@ -44,7 +44,7 @@
 - Version Control: Git & GitHub
 - Project Management: Jira, Trello
 - Code Editors: VS Code
-- Deployment: Vercel, Heroku
+- Deployment: Vercel, Netlify
 
 ---
 
@@ -70,8 +70,8 @@ An eCommerce platform for furniture shopping. Built with **React**, **Node.js**,
 ## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:youremail@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">www.linkedin.com/in/hemanthsai-muppuri</a>
+  <a href="mailto:youremail@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">hemanthsaimuppuri7@gmail.com</a>
 </p>
 
 ---
